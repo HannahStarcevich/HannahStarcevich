@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### Nice to meet you! I am currently seeking a role as a web developer at a company where collaborate with motivated team members and strive to impact the organization's goals. 
+### Nice to meet you! I am currently seeking a role as a junior software engineer or web developer at a company where collaborate with motivated team members and strive to impact the organization's goals. 
 
 I am a Full Stack Web Developer with a previous career as a Project Management Consultant at Microsoft. 
 
