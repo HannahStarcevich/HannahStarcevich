@@ -13,6 +13,6 @@ Technical Skills:
 * Agile methodology, computer science and more
 
 You can reach me via email: Starcevichh@gmail.com
-My Portfolio: https://hannahstarcevich.github.io/Responsive-Portfolio-HS-H2/
+My Portfolio: https://hannahstarcevich.github.io/HannahStarcevich-Portfolio/
 
 ### Thanks!
