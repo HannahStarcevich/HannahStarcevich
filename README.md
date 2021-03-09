@@ -8,10 +8,10 @@ I am known by clients and peers for my sharp attention to detail, big picture pl
 
 Technical Skills: 
 
-* React, Material UI, React Hooks, MySQL database, Express, Axios
-* JavaScript, jQuery, Node.Js., AJAX, APIs, JSON, Heroku, PWAs 
+* React, Material UI, React Hooks, Express, Axios, JSX, MERN, Lifecycle Methods
+* My SQL Database, MongoDB, Mongoose, Object-Document Mapping, CRUD
+* JavaScript, jQuery, Node.Js., AJAX, APIs, JSON, Heroku, PWAs
 * GIT, GitHub, Terminal, CSS3, Bootstrap
-* Actively uses agile PM skills, object oriented programming, MVC frameworks, RESTful conventions and more...
 
 You can reach me via email: Starcevichh@gmail.com
 My Portfolio: http://www.hannah-starcevich.com
