@@ -14,6 +14,6 @@ Technical Skills:
 * Actively uses agile PM skills, object oriented programming, MVC frameworks, RESTful conventions and more...
 
 You can reach me via email: Starcevichh@gmail.com
-My Portfolio: https://www.hannah-starcevich.com
+My Portfolio: http://www.hannah-starcevich.com
 
 ### Thanks!
